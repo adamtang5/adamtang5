@@ -4,6 +4,12 @@
 <br />
 <br />
 
+<div align="center">
+![GitHub metrics](https://metrics.lecoq.io/adamtang5)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
+</div>
+
 <p align="center">
     <a href="https://github.com/adamtang5" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@adamtang5-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
     <a href="https://www.linkedin.com/in/adamtangx" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
@@ -39,9 +45,6 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adamtang5)
 
-![GitHub metrics](https://metrics.lecoq.io/adamtang5)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
 
 
 </details>
