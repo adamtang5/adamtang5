@@ -21,6 +21,7 @@
 
 <p align="center">
     <a href="https://github.com/adamtang5?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
+    ![Profile views](https://gpvc.arturio.dev/adamtang5)
     <a href="https://github.com/adamtang5" target="_blank"><img alt="adamtang5" src="https://badges.pufler.dev/visits/adamtang5/adamtang5?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <!--<a href="https://github.com/adamtang5" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/adamtang5/adamtang5?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
@@ -30,7 +31,17 @@
 <summary>Click for GitHub Stats</summary>
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamtang5&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
+    <br />
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adamtang5)
+
+![GitHub metrics](https://metrics.lecoq.io/adamtang5)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
+
+
 </details>
