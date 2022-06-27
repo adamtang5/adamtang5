@@ -26,11 +26,12 @@
     <a href="https://github.com/adamtang5?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a> -->
 </p>
 
+<!-- ![Profile views](https://gpvc.arturio.dev/adamtang5) -->
+<!-- ![Profile views](https://komarev.com/ghpvc/?username=adamtang5&color=red) -->
 <p align="center">
-    <a href="https://github.com/adamtang5?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-
-![Profile views](https://gpvc.arturio.dev/adamtang5)
-    <a href="https://gpvc.arturio.dev/adamtang5" target="_blank"><img alt="Profile views" src="https://img.shields.io/jsdelivr/gh/hw/adamtang5/adamtang5?label=Profile%20views&style=flat-square"></a>
+    <a href="https://www.github.com/adamtang5" target="_blank"><img src="https://img.shields.io/github/followers/adamtang5?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" /></a>
+    <!-- <a href="https://github.com/adamtang5?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a> -->
+    <a href="https://gpvc.arturio.dev/adamtang5" target="_blank"><img alt="Profile views" src="https://gpvc.arturio.dev/adamtang5?label=Profile%20views&style=flat-square&color=red"></a>
     <a href="https://github.com/adamtang5" target="_blank"><img alt="adamtang5" src="https://badges.pufler.dev/visits/adamtang5/adamtang5?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
 </p>
@@ -40,12 +41,19 @@
 <p align="center">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamtang5&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br />
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
+<!-- <br /> -->
+<div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
+<div align="center">
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adamtang5)
+</div>
+
 
 
 
