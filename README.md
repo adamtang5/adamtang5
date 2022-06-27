@@ -5,6 +5,7 @@
 <br />
 
 <div align="center">
+
 ![GitHub metrics](https://metrics.lecoq.io/adamtang5)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
@@ -27,7 +28,8 @@
 
 <p align="center">
     <a href="https://github.com/adamtang5?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    ![Profile views](https://gpvc.arturio.dev/adamtang5)
+
+![Profile views](https://gpvc.arturio.dev/adamtang5)
     <a href="https://github.com/adamtang5" target="_blank"><img alt="adamtang5" src="https://badges.pufler.dev/visits/adamtang5/adamtang5?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
     <!--<a href="https://github.com/adamtang5" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/adamtang5/adamtang5?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
