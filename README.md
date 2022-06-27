@@ -21,3 +21,12 @@
     <!--<a href="https://github.com/adamtang5" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/adamtang5/adamtang5?label=hits&style=flat-square"></a>-->
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
 </p>
+
+<details>
+<summary>Click for GitHub Stats</summary>
+<p align="center">
+    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamtang5&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+    <br>
+    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
+</p>
+</details>
