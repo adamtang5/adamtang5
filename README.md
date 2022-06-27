@@ -1,4 +1,6 @@
-<img src="./animated-text.gif" alt="Hi there! I'm Adam Tang." title="Hi there! I'm Adam Tang."/>
+<div align="center">
+    <img src="./animated-text.gif" alt="Hi there! I'm Adam Tang." title="Hi there! I'm Adam Tang."/>
+</div>
 
 <p align="center">
     <a href="https://github.com/adamtang5" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@adamtang5-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
