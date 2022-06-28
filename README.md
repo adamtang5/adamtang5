@@ -22,11 +22,11 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg" width="36" height="36" alt="Flask" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" style="width:36px;"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg" style="widtH:36px;" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" style="width:36px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="36" height="36" alt="SQLAlchemy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg" width="36" height="36" alt="Sequelize" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/heroku/heroku-original-wordmark.svg" width="36" height="36" alt="Heroku" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="width:36px;" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" />
     </p>
 </p>
 
