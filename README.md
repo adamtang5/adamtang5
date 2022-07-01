@@ -44,7 +44,7 @@
 <p align="left">
     <a href="https://www.github.com/adamtang5" target="_blank"><img src="https://img.shields.io/github/followers/adamtang5?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" /></a>
     <a href="https://gpvc.arturio.dev/adamtang5" target="_blank"><img alt="Profile views" src="https://gpvc.arturio.dev/adamtang5?label=Profile%20views&style=flat-square&color=red"></a>
-    <a href="https://github.com/adamtang5" target="_blank"><img alt="adamtang5" src="https://badges.pufler.dev/visits/adamtang5/adamtang5?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
+    <!-- <a href="https://github.com/adamtang5" target="_blank"><img alt="adamtang5" src="https://badges.pufler.dev/visits/adamtang5/adamtang5?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a> -->
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
 </p>
 
