@@ -4,10 +4,10 @@
 <br />
 <br />
 
-<div align="left">
+<!-- <div align="left">
 
 ![GitHub metrics](https://metrics.lecoq.io/adamtang5)
-</div>
+</div> -->
 
 <p align="left" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <h2>Skills: </h2>
@@ -48,16 +48,16 @@
     <a href="https://github.com/adamtang5/adamtang5" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/adamtang5/adamtang5?label=profile%20updated&style=flat-square"></a>
 </p>
 
-<details>
-<summary>Click for GitHub Stats</summary>
 <p align="left">
     <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamtang5&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
     <br />
     <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 <!-- <br /> -->
-<div align="left">
 
+<details>
+<summary>Click for more GitHub Stats</summary>
+<div align="left">
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
