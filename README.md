@@ -4,10 +4,10 @@
 <br />
 <br />
 
-<!-- <div align="left">
+<div align="left">
 
 ![GitHub metrics](https://metrics.lecoq.io/adamtang5)
-</div> -->
+</div>
 
 <p align="left" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
     <h2>Skills: </h2>
@@ -35,11 +35,11 @@
     <a href="https://www.linkedin.com/in/adamtangx" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
 </p>
 
-<!-- <p align="left">
+<p align="left">
     <a href="https://github.com/adamtang5?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/adamtang5?tab=repositories&language=javascript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=F5DA60"></a>
     <a href="https://github.com/adamtang5?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-</p> -->
+</p>
 
 <p align="left">
     <a href="https://www.github.com/adamtang5" target="_blank"><img src="https://img.shields.io/github/followers/adamtang5?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" /></a>
@@ -58,6 +58,7 @@
 <details>
 <summary>Click for more GitHub Stats</summary>
 <div align="left">
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
