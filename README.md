@@ -65,10 +65,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
 </div>
 
-<div align="left">
+<!-- <div align="left">
 
 ![GitHub metrics](https://metrics.lecoq.io/adamtang5)
-</div>
+</div> -->
 
 <!-- <div align="left">
 
