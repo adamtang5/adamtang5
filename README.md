@@ -49,21 +49,24 @@
 <p align="left">
   <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=adamtang5&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
   <br />
-  <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
 </p>
-<!-- <br /> -->
-
-<details>
-<summary>Click for more GitHub Stats</summary>
-<div align="left">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 <div align="left">
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=adamtang5)
 </div>
+
+<details>
+<summary>Click for more GitHub Stats</summary>
+<div align="left">
+<img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamtang5&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
+</div>
+
+<div align="left">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adamtang5)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
+
 
 <!-- <div align="left">
 
