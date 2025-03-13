@@ -24,6 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original.svg" width="36" height="36" alt="Go" />
   </p>
 </p>
 
