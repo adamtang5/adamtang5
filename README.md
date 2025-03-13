@@ -7,24 +7,24 @@
 <p align="left" style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
   <h2>Skills: </h2>
   <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJS" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg" width="36" height="36" alt="Flask" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="36" height="36" alt="SQLAlchemy" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg" width="36" height="36" alt="Sequelize" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" title="Javascript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python" title="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" title="Ruby" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" title="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" title="Go" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" title="HTML5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" title="CSS3" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" title="React" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/redux/redux-original.svg" width="36" height="36" alt="Redux" title="Redux" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="NodeJS" title="NodeJS" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original-wordmark.svg" width="36" height="36" alt="Express" title="Express" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/flask/flask-original-wordmark.svg" width="36" height="36" alt="Flask" title="Flask" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="36" height="36" alt="SQLAlchemy" title="SQLAlchemy" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg" width="36" height="36" alt="Sequelize" title="Sequelize" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" title="Git" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" title="AWS" />
   </p>
 </p>
 
