@@ -9,6 +9,10 @@
   <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/javascript/javascript-original.svg" width="36" height="36" alt="Javascript" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/ruby/ruby-original.svg" width="36" height="36" alt="Ruby" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/css3/css3-original-wordmark.svg" width="36" height="36" alt="CSS3" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React" />
@@ -20,11 +24,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="36" height="36" alt="SQLAlchemy" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/sequelize/sequelize-original-wordmark.svg" width="36" height="36" alt="Sequelize" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/heroku/heroku-original-wordmark.svg" width="36" height="36" alt="Heroku" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="36" height="36" alt="AWS" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/typescript/typescript-original.svg" width="36" height="36" alt="TypeScript" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/go/go-original-wordmark.svg" width="36" height="36" alt="Go" />
   </p>
 </p>
 
